@@ -1,0 +1,18 @@
+name: PotionRestrict
+author: Marcin (CTRL) Wieczorek
+version: 1.0
+main: co.marcin.potionrestrict.PotionRestrict
+commands:
+ potionrestrict:
+  aliases: [ pr ]
+  description: PotionRestrict command
+
+permissions:
+ potionrestrict.get:
+  default: op
+ potionrestrict.set:
+  default: op
+ potionrestrict.reload:
+  default: op
+ potionrestrict.bypass:
+  default: op

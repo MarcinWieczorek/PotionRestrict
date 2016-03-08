@@ -1,0 +1,10 @@
+potion:
+ normal: true
+ splash: true
+ lingering: false
+
+message:
+ prefix: "&4[&7PotionRestrict&4] &7"
+ nopermissions: "You don't have permissions!"
+ potiondisabled: "This kind of potion is disabled"
+ reloaded: "Configuration has been reloaded"
