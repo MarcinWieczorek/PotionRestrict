@@ -1,6 +1,6 @@
 name: PotionRestrict
 author: Marcin (CTRL) Wieczorek
-version: 1.0
+version: 1.1
 main: co.marcin.potionrestrict.PotionRestrict
 commands:
  potionrestrict:
